@@ -8,21 +8,22 @@
 h1 {
     text-align: center;
     font-size: 1.75em;
+    margin-bottom: 30px;
 }
 
 .section {
     border: 1px solid black;
     background-color: lightgray;
-    margin: 5px;
-    padding: 5px;
+    margin: 15px;
+    padding: 10px;
 }
 
 .section-title {
     width: 100px;
     float: right;
     position: relative;
-    top: -6px;
-    right: -6px;
+    top: -11px;
+    right: -11px;
     border: 1px solid black;
     padding: 5px;
     font-size: 1.25em;
@@ -32,6 +33,7 @@ h1 {
 .section-content {
     clear: right;
 }
+
 #sec1-title {
     background-color: pink;
 }
